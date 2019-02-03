@@ -1,0 +1,15 @@
+{
+  "name": "ONGGO",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "database-js-json": "^1.2.1",
+    "express": "^4.16.4",
+    "load-json-file": "^5.1.0",
+    "moment": "^2.24.0",
+    "node-cron": "^2.0.3",
+    "scrape-it": "^5.1.4",
+    "write-json-file": "^3.0.2"
+  }
+}
