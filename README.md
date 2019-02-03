@@ -17,3 +17,6 @@ Scraping harga terakhir emas dan perak yang ada pada website https://www.logammu
 2. Jalankan file **bot.js** dengan perintah `node bot.js`. File bot.js digunakan untuk mengupdate harga emas dan perak dengan mengambil data setiap 10 menit.
 3. Jalankan file **api.js** dengan perintah `node api.js`. File api.js digunakan untuk serve data json harga emas dan perak dengan Expressjs.
 4. Sekarang kamu bisa akses http://localhost:3000/ untuk melihat hasilnya.
+
+# Note
+- File **data.json** merupakan file untuk menyimpan hasil scraping.
